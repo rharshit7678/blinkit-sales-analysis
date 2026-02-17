@@ -37,7 +37,7 @@ The dataset contains the following key features:
 - Seaborn
 - Jupyter Notebook
 
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 
 - Data Cleaning & Preprocessing  
 - Handling inconsistent fat content labels  
